@@ -346,6 +346,18 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
+norajs@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/norajs/-/norajs-1.0.4.tgz#693d90c65f83e83baf8880ad9beb5c8681a95b19"
+  dependencies:
+    body-parser "~1.17.1"
+    cookie-parser "~1.4.3"
+    express "^4.15.4"
+    express-promise-router "^2.0.0"
+    serve-favicon "~2.4.2"
+    stylus "^0.54.5"
+    tracer "^0.8.11"
+
 object-assign@4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.0.tgz#7a3b3d0e98063d43f4c03f2e8ae6cd51a86883a0"
